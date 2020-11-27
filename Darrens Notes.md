@@ -5,7 +5,7 @@ The motors in the box are not the same as in the diagram... they're kinda huge, 
 ### Wiring
 The wiring is in the images
 
-![Motor wiring](./Kysan Motor.JPG)
+![Motor wiring](KysanMotor.jpg)
 
 The diagram you see on most of the websites don't line up. I believe that 
 
